@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+h5 {
+  font-size: 40px;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.headpic {
+  font-size: 20px;
+}
+
+.container {
+  max-width: 1000px;
+  float: left;
+}
+
+.bio-content {
+  max-width: 1000px;
+  font-size: 18px;
+}
+.display-4 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.news{
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.main-container{
+  /*
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  */
+}
+
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
