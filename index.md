@@ -17,7 +17,7 @@ I recently joined Alibaba DAMO Academy USA, working on real world medical AI pro
 - \[2023.04\] [MaxQuery](https://arxiv.org/abs/2304.00212) for medical out-of-distribution detection is accepted to CVPR 2023 as Highlight.
 - \[2023.03\] 1 paper about [pancreatic lesion diagnosis](https://arxiv.org/abs/2303.00942) is accepted to IPMI 2023.
 - \[2022.06\] 2 papers about [colorectal cancer](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_54) and [esophageal cancer](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_33) detection are accepted to MICCAI 2022.
-- \[2022.05\] I received my PhD degree.
+- \[2021.11\] I passed my PhD defense.
 
 ## Selected Publications
 
