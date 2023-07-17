@@ -14,8 +14,8 @@ I recently joined Alibaba DAMO Academy USA, working on real world medical AI pro
 
 ## News
 
-- \[2023.04\] [CancerUniT](https://arxiv.org/pdf/2301.12291.pdf) for eight major cancer detection in CT is accepted to ICCV 2023.
-- \[2023.04\] 3 papers accepted to MICCAI 2023.
+- \[2023.07\] [CancerUniT](https://arxiv.org/pdf/2301.12291.pdf) for eight major cancer detection in CT is accepted to ICCV 2023.
+- \[2023.07\] 3 papers accepted to MICCAI 2023.
 - \[2023.04\] [MaxQuery](https://arxiv.org/abs/2304.00212) for medical out-of-distribution detection is accepted to CVPR 2023 as Highlight.
 - \[2023.03\] 1 paper about [pancreatic lesion diagnosis](https://arxiv.org/abs/2303.00942) is accepted to IPMI 2023.
 - \[2022.06\] 2 papers about [colorectal cancer](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_54) and [esophageal cancer](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_33) detection are accepted to MICCAI 2022.
