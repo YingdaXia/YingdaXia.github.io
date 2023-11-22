@@ -13,7 +13,7 @@ I recently joined Alibaba DAMO Academy USA, working on real world medical AI pro
 
 
 ## News
-- \[2023.07\] [PANDA](https://www.nature.com/articles/s41591-023-02640-w) for large-scale pancreatic cancer detection on non-contrast CT is accepted to Nature Medicine.
+- \[2023.11\] [PANDA](https://www.nature.com/articles/s41591-023-02640-w) for large-scale pancreatic cancer detection on non-contrast CT is accepted to Nature Medicine.
 - \[2023.07\] [CancerUniT](https://arxiv.org/pdf/2301.12291.pdf) for eight major cancer detection in CT is accepted to ICCV 2023.
 - \[2023.07\] 3 papers accepted to MICCAI 2023.
 - \[2023.04\] [MaxQuery](https://arxiv.org/abs/2304.00212) for medical out-of-distribution detection is accepted to CVPR 2023 as Highlight.
