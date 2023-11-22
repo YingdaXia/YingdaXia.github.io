@@ -24,7 +24,7 @@ I recently joined Alibaba DAMO Academy USA, working on real world medical AI pro
 > Large-scale pancreatic cancer detection via non-contrast CT and deep learning  
 > Kai Cao, **Yingda Xia**, Jiawen Yao, Xu Han, Lukas Lambert, Tingting Zhang, Wei Tang, Gang Jin, Hui Jiang, Xu Fang, Isabella Nogues, Xuezhou Li, Wenchao Guo, Yu Wang, Wei Fang, Mingyan Qiu, Yang Hou, Tomas Kovarnik, Michal Vocka, Yimei Lu, Yingli Chen, Xin Chen, Zaiyi Liu, Jian Zhou, Chuanmiao Xie, Rong Zhang, Hong Lu, Gregory D. Hager, Alan L. Yuille, Le Lu, Chengwei Shao, Yu Shi, Qi Zhang, Tingbo Liang, Ling Zhang, Jianping Lu  
 > (Co-first author)  
-> In **Nature Medicine**, 2023  
+> In ***Nature Medicine***, 2023  
 > [paper](https://www.nature.com/articles/s41591-023-02640-w) | [demo](http://panda.medofmind.com/)
 
 
