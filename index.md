@@ -9,7 +9,7 @@ author_profile: true
 # Yingda Xia
 ---
 
-I recently joined Alibaba DAMO Academy USA, working on real world medical AI problems. I received my PhD degree from the CS department at Johns Hopkins University in 2022, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). My research interests are computer vision and medical image analysis. I had chance to intern at Nvidia, PAII, and MSRA. I obtained my B.E. at Tsinghua University in 2017.
+I'm currently a staff algorithm engineer at Alibaba DAMO Academy USA, working on real world medical AI problems. I received my PhD degree from the CS department at Johns Hopkins University in 2022, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). My research interests are computer vision and medical image analysis. I had chance to intern at Nvidia, PAII, and MSRA. I obtained my B.E. at Tsinghua University in 2017.
 
 
 ## News
